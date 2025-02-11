@@ -1,2 +1,2 @@
 # Soft-Des
-Soft Des - Entertainment System - Offline Game: TNT Tactics
+Soft Des - Entertainment System - Arcade Games
